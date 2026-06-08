@@ -4,4 +4,9 @@ public class Hobby {
 		displayTraineeHobbyB();
 		displayTraineeHobbyC();
 	}
+
+	public static void displayTraineeHobbyX() {
+	System.out.println("i like turtle");
+	// @franz
+}
 }
